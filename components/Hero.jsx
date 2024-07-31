@@ -20,7 +20,7 @@ const Hero = () => {
           Web Development
         </h1>
         <p className="font-medium">
-          I am a student at Rizvi College of Engineering, studying Artificial
+          I was a student at Rizvi College of Engineering, studying Artificial
           Intelligence and Data Science, building the future with Technology.
         </p>
         <Button onClick={scrollToProjects} className="mt-2 mb-2 w-[120px]">
